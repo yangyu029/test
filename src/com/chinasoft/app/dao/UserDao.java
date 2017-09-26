@@ -1,5 +1,5 @@
 package com.chinasoft.app.dao;
 
-public class UserDao {
-
+public interface UserDao {
+	public boolean add ();
 }
